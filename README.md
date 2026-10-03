@@ -1,4 +1,4 @@
-# Helm — AI Finance Copilot
+# Helm : AI Finance Copilot
 
 Personal finance app where an LLM agent is the primary interface. Log spending conversationally, receive proactive insights, scan receipts, import bank statements, and simulate financial scenarios in real time.
 
